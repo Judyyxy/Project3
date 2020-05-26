@@ -11,4 +11,4 @@ https://acxdv7kwjg.execute-api.us-east-2.amazonaws.com/default/DataCollector
 ![](kinesis.PNG)
 
 ## Add Visualizations
-    
+Plot line charts to display the stock price of listed companies during the day. The fun fact is that 11 am is likely a turning point during the day. 
