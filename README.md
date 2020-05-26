@@ -10,3 +10,5 @@ https://acxdv7kwjg.execute-api.us-east-2.amazonaws.com/default/DataCollector
 ## Screenshot of Kinesis
 ![](kinesis.PNG)
 
+## Add Visualizations
+    
