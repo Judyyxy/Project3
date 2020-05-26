@@ -4,8 +4,8 @@
 https://acxdv7kwjg.execute-api.us-east-2.amazonaws.com/default/DataCollector
 
 ## Screenshot of DataCollector Lambda
-![](DataCollectorLambda.png)
+![](DataCollectorLambda.PNG)
 
 ## Screenshot of Kinesis
-![](kinesis.png)
+![](kinesis.PNG)
 
